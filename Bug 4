@@ -1,0 +1,29 @@
+# All bookmarks. Not clickable link to Colon(двоеточие)
+
+Description:
+PC (WIN 10) Google Chrome v.74.0.3729.169 Build: xxxx
+
+Steps to reproduce:
+1.Start browser
+2.Open site http://dmytrokovalenkodk.wixsite.com/qa-task-1
+3.Open any bookmark.
+4.Click on the Colon logo.
+5.Pay attention to the result of clicking.
+
+Actual Result:
+Home page opened, not clickable link 
+
+Expected result:
+Goes to WIX group page in Colon(двоеточие)
+
+Severity:
+Major
+
+Status:
+Opened
+
+Assignee:
+Back-end programmer
+
+Attachment:
+http://prntscr.com/nwufwp
