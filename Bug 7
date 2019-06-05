@@ -1,0 +1,30 @@
+# Portrait page. Photo not loading
+
+Description:
+PC (WIN 10) Google Chrome v.74.0.3729.169 Build: xxxx
+
+Steps to reproduce:
+1.Start browser.
+2.Open site http://dmytrokovalenkodk.wixsite.com/qa-task-1.
+3.Click portrait bookmark in the bookmarks menu.
+4.Open the first photo.
+5.Click the back arrow.
+6.Pay attention to the photo.
+
+Actual Result:
+Infinite loading wheel displayed
+
+Expected result:
+Photo of a beautiful girl booted
+
+Severity:
+Major
+
+Status:
+Opened
+
+Assignee:
+Back-end programmer
+
+Attachment:
+http://prntscr.com/nxaxyy
