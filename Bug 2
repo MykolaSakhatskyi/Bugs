@@ -1,0 +1,28 @@
+# All bookmarks.Bounding box not full link length bug@list.com
+
+Description:
+PC (WIN 10) Google Chrome v.74.0.3729.169 Build: xxxx
+
+Steps to reproduce:
+1.Start browser
+2.Open site http://dmytrokovalenkodk.wixsite.com/qa-task-1
+3.Open any bookmark.
+4.Pay attention to the link's bug@list.com bounding box.
+
+Actual Result:
+The bounding box link starts with the letter "b" to the letter "i"
+
+Expected result:
+The bounding box link along the entire word
+
+Severity:
+Minor
+
+Status:
+Opened
+
+Assignee:
+Back-end programmer
+
+Attachment:
+http://prntscr.com/nwu6i6
