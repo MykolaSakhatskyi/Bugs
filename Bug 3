@@ -1,0 +1,28 @@
+# All bookmarks.Little bounding box link's Facebook
+
+Description:
+PC (WIN 10) Google Chrome v.74.0.3729.169 Build: xxxx
+
+Steps to reproduce:
+1.Start browser
+2.Open site http://dmytrokovalenkodk.wixsite.com/qa-task-1
+3.Open any bookmark.
+4.Pay attention to the link's Facebook bounding box.
+
+Actual Result:
+The bounding box link's Facebook is to the right of the Facebook's logo.
+
+Expected result:
+The bounding box link's Facebook is located throughout the Facebook's logo.
+
+Severity:
+Minor
+
+Status:
+Opened
+
+Assignee:
+Back-end programmer
+
+Attachment:
+http://prntscr.com/nwu9a9
