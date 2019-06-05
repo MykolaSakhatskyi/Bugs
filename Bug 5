@@ -1,0 +1,28 @@
+# Food page. Error page(error 403)
+
+Description:
+PC (WIN 10) Google Chrome v.74.0.3729.169 Build: xxxx
+
+Steps to reproduce:
+1.Start browser.
+2.Open site http://dmytrokovalenkodk.wixsite.com/qa-task-1.
+3.Click food bookmark in the bookmarks menu.
+4.Pay attention to the result of clicking.
+
+Actual Result:
+Error page opens, Error 403 is displayed
+
+Expected result:
+Food page opens, The name of the section Food in the bookmarks menu is highlighted.
+
+Severity:
+Critical
+
+Status:
+Opened
+
+Assignee:
+Back-end programmer
+
+Attachment:
+http://prntscr.com/nwukj8
