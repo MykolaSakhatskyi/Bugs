@@ -1,0 +1,39 @@
+# Nature page and Fasion page.The names of fashion and nature bookmarks are confused
+
+Description:
+PC (WIN 10) Google Chrome v.74.0.3729.169 Build: xxxx
+
+Steps to reproduce:
+1.Start browser.
+2.Open site http://dmytrokovalenkodk.wixsite.com/qa-task-1.
+3.Click nature bookmark in the bookmarks menu.
+4.Pay attention to the address line, the name of the section in the content block, the name of the bookmark in the bookmarks menu.
+
+Actual Result:
+The name of the bookmark in the bookmarks menu is nature, the name in the address bar is fasion and the title of the section in the content block is fashion
+
+Expected result:
+The name of the bookmark in the bookmarks menu is fasion, the name in the address bar is fasion and the title of the section in the content block is fashion
+
+Steps to reproduce:
+5.Click fasion bookmark in the bookmarks menu.
+6.Pay attention to the address line, the name of the section in the content block, the name of the bookmark in the bookmarks menu.
+
+Actual Result:
+The name of the bookmark in the bookmarks menu is fashion, the name in the address bar is nature and the title of the section in the content block is nature
+
+Expected result:
+The name of the bookmark in the bookmarks menu is nature, the name in the address bar is nature and the title of the section in the content block is nature
+
+Severity:
+Major
+
+Status:
+Opened
+
+Assignee:
+Back-end programmer
+
+Attachment:
+http://prntscr.com/nwumz1
+http://prntscr.com/nwun9o
