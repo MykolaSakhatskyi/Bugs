@@ -1,0 +1,34 @@
+# Home page, Nature page and Contact page. The background rectangle of the nature section and contact section merges with the main background of the page
+
+Description:
+PC (WIN 10) Google Chrome v.74.0.3729.169 Build: xxxx
+
+Steps to reproduce:
+1.Start browser.
+2.Open site http://dmytrokovalenkodk.wixsite.com/qa-task-1.
+3.Open Home page.
+4.Pay attention to the background rectangle of the nature section.
+5.Open the nature section.
+6.Pay attention to the background rectangle of the nature section.
+7.Open the contact section.
+8.Pay attention to the background rectangle of the contact section.
+
+Actual Result:
+The background rectangle of the section of nature and the background rectangle of the section of contact have the same color as the background of the page
+
+Expected result:
+The background rectangle of the nature section and the background rectangle of the nature section are different from the color of the page background.
+
+Severity:
+Trivial
+
+Status:
+Opened
+
+Assignee:
+Back-end programmer
+
+Attachment:
+http://prntscr.com/nxb3pa
+http://prntscr.com/nxb3xi
+http://prntscr.com/nxb92o
