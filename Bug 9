@@ -1,0 +1,37 @@
+# Section names are not centered in their rectangles
+
+Description:
+PC (WIN 10) Google Chrome v.74.0.3729.169 Build: xxxx
+
+Steps to reproduce:
+1.Start browser.
+2.Open site http://dmytrokovalenkodk.wixsite.com/qa-task-1.
+3.Open portrait section.
+4.Pay attention to the section names.
+5.Open the fasion section.
+6.Pay attention to the section names.
+7.Open the food section.
+8.Pay attention to the section names.
+9.Open bio section.
+10.Pay attention to the section names.
+
+Actual Result:
+Section titles are shifted to the right in their rectangles.
+
+Expected result:
+Section titles are centered along their rectangles.
+
+Severity:
+Trivial
+
+Status:
+Opened
+
+Assignee:
+Back-end programmer
+
+Attachment:
+http://prntscr.com/nxbdvn
+http://prntscr.com/nxbe3v
+http://prntscr.com/nxbec7
+http://prntscr.com/nxbem8
